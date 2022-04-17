@@ -4,4 +4,4 @@ The published code is for the paper ConvPatchTrans: A Script Identification Netw
 
 ## Pretrained Models
 
-* [Google Drive](https://drive.google.com/drive/folders/1R-uqKqygH5a1sDQPbUQFXLvy_64DvvVu?usp=sharing)
+* [Google Drive](https://drive.google.com/drive/folders/14jcw_n6f2vJm2IL3-VTf35Ba-PXWf5RZ?usp=sharing)
